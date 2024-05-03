@@ -1,0 +1,7 @@
+We have three scripts in the given git hub link
+load the folders into the vs code 
+we get the scripts in the vs code and save it 
+then run the HTML code and 
+select a live server we get a GUI 
+provide the inputs  to the Location eg:adoni
+Result would be displayed
